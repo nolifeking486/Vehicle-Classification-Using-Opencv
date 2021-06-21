@@ -4,5 +4,6 @@
  2. https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/
  3. https://ieeexplore.ieee.org/abstract/document/8975613/authors#authors
  4. https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=2519&context=hon_thesis 
- 5. tensorflow course- https://youtu.be/tPYj3fFJGjk 
- 6. opencv course- https://youtu.be/oXlwWbU8l2o
+ 5. https://ieeexplore.ieee.org/document/5542980
+ 6. tensorflow course- https://youtu.be/tPYj3fFJGjk 
+ 7. opencv course- https://youtu.be/oXlwWbU8l2o
