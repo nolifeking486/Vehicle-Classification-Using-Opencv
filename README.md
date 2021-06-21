@@ -1,2 +1,2 @@
 # Vehicle-Classification-Using-Opencv
-internship project
+To develop an application which can primarily detect and classify different types of vehicles on the road. 
