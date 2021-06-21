@@ -5,6 +5,7 @@
  3. https://ieeexplore.ieee.org/abstract/document/8975613/authors#authors
  4. https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=2519&context=hon_thesis 
  5. https://ieeexplore.ieee.org/document/5542980
- 6. Messelodi, Stefano, Carla Maria Modena, and Michele Zanin. "A computer vision system for the detection and classification of vehicles at urban road intersections." (2004).
- 7. tensorflow course- https://youtu.be/tPYj3fFJGjk 
- 8. opencv course- https://youtu.be/oXlwWbU8l2o
+ 6. https://github.com/sdevkota007/vehicles-nepal-dataset
+ 7. Messelodi, Stefano, Carla Maria Modena, and Michele Zanin. "A computer vision system for the detection and classification of vehicles at urban road intersections." (2004).
+ 8. tensorflow course- https://youtu.be/tPYj3fFJGjk 
+ 9. opencv course- https://youtu.be/oXlwWbU8l2o
