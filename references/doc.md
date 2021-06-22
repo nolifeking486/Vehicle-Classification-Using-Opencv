@@ -11,3 +11,4 @@
  9. tensorflow course- https://youtu.be/tPYj3fFJGjk 
  10. opencv course- https://youtu.be/oXlwWbU8l2o
  11. https://www.tensorflow.org/tutorials/images/transfer_learning
+ 12. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3769139
