@@ -10,3 +10,4 @@
  8. Messelodi, Stefano, Carla Maria Modena, and Michele Zanin. "A computer vision system for the detection and classification of vehicles at urban road intersections." (2004).
  9. tensorflow course- https://youtu.be/tPYj3fFJGjk 
  10. opencv course- https://youtu.be/oXlwWbU8l2o
+ 11. https://www.tensorflow.org/tutorials/images/transfer_learning
