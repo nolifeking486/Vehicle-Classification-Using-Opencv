@@ -15,5 +15,5 @@
  13. https://ieeexplore.ieee.org/document/9297561
  14. https://www.cis.upenn.edu/~jshi/ped_html/
  15. AI GUY NOTEBOOK TOOL FOR DATASET: https://github.com/theAIGuysCode/OIDv4_ToolKit.git
- 16. AI GUY NOTEBOOK: https://colab.research.google.com/drive/12QusaaRj_lUwCGDvQNfICpa7kA7_a2dE#scrollTo=GQQrAMdXN22a
+ 16. AI GUY NOTEBOOK: https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing
  
