@@ -14,5 +14,6 @@
  12. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3769139
  13. https://ieeexplore.ieee.org/document/9297561
  14. https://www.cis.upenn.edu/~jshi/ped_html/
- 15. https://github.com/theAIGuysCode/OIDv4_ToolKit.git
+ 15. AI GUY NOTEBOOK TOOL FOR DATASET: https://github.com/theAIGuysCode/OIDv4_ToolKit.git
+ 16. AI GUY NOTEBOOK: https://colab.research.google.com/drive/12QusaaRj_lUwCGDvQNfICpa7kA7_a2dE#scrollTo=GQQrAMdXN22a
  
